@@ -15,23 +15,23 @@ A collection of wallpapers, avatars, banners, and other visual creations by Nerd
 ## ✨ Showcase
 
 <p align="center">
-  <img src="https://your-link-here.com/showcase1.png" width="700" alt="Showcase Image"/>
+  <img src="./Graphics/Banner/NerdManJesterBANNER_x2560X1440BANER.png" width="700" alt="Showcase Image"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://your-link-here.com/showcase2.png" width="700" alt="Showcase Image"/>
-</p>
+</p> -->
 
 ---
 
 ## 🖼️ Wallpapers
 
 <p align="center">
-  <img src="https://your-link-here.com/wallpaper1.png" width="800" alt="Wallpaper 1"/>
+  <img src="./Graphics/Wallpapers/PC/1920x1080/NerdManJesterWALLPAPER_BLUE_1920x1080.png" width="800" alt="Wallpaper 1"/>
 </p>
 
 <p align="center">
-  <img src="https://your-link-here.com/wallpaper2.png" width="800" alt="Wallpaper 2"/>
+  <img src="./Graphics/Wallpapers/Phone/1080x2400/NerdManJesterWALLPAPER_RED_x1080x2400.png" width="800" alt="Wallpaper 2"/>
 </p>
 
 ---
